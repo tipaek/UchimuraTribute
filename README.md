@@ -20,7 +20,7 @@
 ## About The Project
 
 <p align="center">
-  <img src="https://i.ibb.co/3y3tn08/Screenshot-2023-12-15-120417.png" width="80%" />
+  <img src="https://i.ibb.co/9sDPgKq/Screenshot-2023-12-15-120417.png" width="80%" />
 </p>
 <p align="center">
   <img src="https://i.ibb.co/MSgqFJQ/Screenshot-2023-12-15-120729.png" width="80%" />
